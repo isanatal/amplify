@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Dayana mi amplify, QA
+          Dayana mi amplify
         </p>
       </header>
     </div>
